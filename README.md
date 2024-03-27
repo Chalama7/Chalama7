@@ -48,16 +48,14 @@
 <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="Virtual Box" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="Vagrant" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chef/chef-original-wordmark.svg" alt="Chef" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/puppet/puppet-original-wordmark.svg" alt="Puppet" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hudson/hudson-original-wordmark.svg" alt="Hudson" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ant/ant-original-wordmark.svg" alt="Ant" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain-wordmark.svg" alt="Gradle" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msbuild/msbuild-original-wordmark.svg" alt="MS Build" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudwatch/cloudwatch-original-wordmark.svg" alt="Cloud Watch" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original-wordmark.svg" alt="Datadog" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nexus/nexus-original-wordmark.svg" alt="Nexus" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hudson/hudson-original.svg" alt="Hudson" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ant/ant-original.svg" alt="Ant" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="Gradle" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/msbuild/msbuild-original.svg" alt="MS Build" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudwatch/cloudwatch-original.svg" alt="Cloud Watch" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nexus/nexus-original.svg" alt="Nexus" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shell/shell-original.svg" alt="Shell" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/websphere/websphere-original-wordmark.svg" alt="WebSphere" width="40" height="40"/> 
+
 
 </p>
