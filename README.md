@@ -37,18 +37,15 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="Maven" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ELK" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/artifactory/artifactory-icon.svg" alt="Artifactory" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="Splunk" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache HTTP Server" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original-wordmark.svg" alt="Tomcat" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="JIRA" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original.svg" alt="VMware" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original-wordmark.svg" alt="VMware" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="Virtual Box" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="Vagrant" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-
-
 
 </p>
