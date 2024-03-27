@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Hi there 👋
+## Hey there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=venom&&height=200&section=header&text=Chalama%20Reddy%20Venna&fontColor=000000&fontSize=50&customColorList=0,2,2,50,90)
 
