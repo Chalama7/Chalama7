@@ -1,8 +1,8 @@
 ## Hey there 👋
 
-![header](https://capsule-render.vercel.app/api?type=venom&&height=200&section=header&text=Chalama%20Reddy%20Venna&fontColor=000000&fontSize=50&customColorList=0,2,2,50,90)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Chalama%20Reddy%20Venna&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
+
 
 💼 DevOps/Cloud Engineer • AWS Certified Solution Architect Associate
 
