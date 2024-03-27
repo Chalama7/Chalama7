@@ -18,7 +18,9 @@
 <a href="https://instagram.com/mr._.chalama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr._.chalama" height="30" width="40" /></a>
 <a href="https://twitter.com/v_chalamareddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v_chalamareddy" height="30" width="40" /></a>
 <a href="https://facebook.com/Chalamav777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chalamav777" height="30" width="40" /></a>
+<a href="https://www.snapchat.com/add/chalama_reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="chalama_reddy" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
