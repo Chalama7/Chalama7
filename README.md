@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Chalama%20Reddy%20Venna&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Chalama%20Reddy%20Venna&fontSize=50)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
 
 
