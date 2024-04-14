@@ -8,7 +8,6 @@
 
 <p> </p>
 
-- 👨‍💻 Take a look at (https://chalama7.github.io/Myfolio/)
 
 - 📫 How to reach me **chalama.wiu@gmail.com**
 
