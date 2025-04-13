@@ -29,7 +29,7 @@ With over 5 years of hands-on experience as a Network Engineer, I specialize in 
 ### 📫 How to reach me:
 
 - **Email**: [crvenna25@gmail.com](mailto:crvenna25@gmail.com)
-- **LinkedIn**: [linkedin.com/in/chalamav777](https://linkedin.com/in/chalamav777)
+- **LinkedIn**: [linkedin.com/in/chalamav777](https://linkedin.com/in/crvenna)
 - **Twitter**: [@v_chalamareddy](https://twitter.com/v_chalamareddy)
 - **Instagram**: [@mr._.chalama](https://instagram.com/mr._.chalama)
 
