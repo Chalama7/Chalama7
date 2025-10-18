@@ -14,7 +14,7 @@
 ## 🧠 About Me  
 
 I’m a hands-on engineer passionate about bridging **network engineering** and **cloud-native architecture**.  
-Currently working on **SWACD (Secure Web Application Control Plane Delivery)** — a Kubernetes-based multi-tenant control plane project at **JPMC (via Deloitte)** using **KCP**, **EKS**, **Cloudflare**, and **Akamai**.  
+Currently working on **SWACD (Secure Web API and Content Delivery)** — a Kubernetes-based multi-tenant control plane project at **JPMC (via Deloitte)** using **KCP**, **EKS**, **Cloudflare**, and **Akamai**.  
 
 I love solving complex infrastructure puzzles — from SD-WAN to service mesh, from Terraform to KCP controllers.
 
